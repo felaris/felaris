@@ -2,6 +2,8 @@
 <img src="images/Typing.gif" alt="An image of a hand typing-Animated" align="left" width="150px" height="150px">
 I'm a Climate Scientist and an aspiring software engineer and Data Scientist, i love to see how machines react with codes. I code in Python, CSS, HTML and FORTRAN.
 Currently working on *powerfile.org     , A website that host learning materials for students in Kwame Nkrumah University of Science and Technology- KNUST
+<br>
+<br>
 
 ## Happy Coding
 <div>
