@@ -1,7 +1,7 @@
 # Hello , my name is Felix👋
 <img src="images/Typing.gif" alt="An image of a hand typing-Animated" align="left" width="155px" height="150px">
-I'm an aspiring software engineer and Data Scientist, i love to see how machines react with codes. I code in Python, CSS, HTML and FORTRAN.
-Currently working on * powerfile.org *    , A website that host learning materials for students in Kwame Nkrumah University of Science and Technology- KNUST
+I'm a Climate Scientist and an aspiring software engineer and Data Scientist, i love to see how machines react with codes. I code in Python, CSS, HTML and FORTRAN.
+Currently working on *powerfile.org     , A website that host learning materials for students in Kwame Nkrumah University of Science and Technology- KNUST
 
 ## Happy Coding
 <div>
