@@ -5,6 +5,17 @@ Currently working on *powerfile.org     , A website that host learning materials
 <br>
 <br>
 
+
+
+<style>
+<div style="background-image:url('images/coding.gif)"></div>
+
+
+
+
+</style>
+
+
 ## Happy Coding
 <div>
 <img src="images/coding.gif" alt=" A man coding " width="150px" height="150px">
@@ -12,13 +23,6 @@ Currently working on *powerfile.org     , A website that host learning materials
 <img src="images/computer.gif" alt=" A Computer " width="150px" height="150px">
 <img src="images/html.webp" alt=" Html on the wall " width="150px" height="150px">
 <img src="images/code.gif" alt=" A hand coding " width="150px" height="150px">
-
-<div style="background-image:url('images/coding.gif)"></div>
-
-
-</div>
-
-
 
 ## Let's connect  🌎:
 
