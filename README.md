@@ -23,12 +23,12 @@ Currently managing relgh.com    , the first African deaf online learning platfor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaris" width="200px" height="200px" >
   <img src="https://github-readme-stats.vercel.app/api?username=felaris" width="200px" height="200px"> </div>
 ## Let's connect  🌎:
+<div>
+<a href="https://web.facebook.com/felix.awortwe.315">  <img src="images/fb.png" alt="Facebook icon"     width="50px" height="50px"> </a>
 
-<a href="https://web.facebook.com/felix.awortwe.315">  <img src="images/fb.png" alt="Facebook icon" > </a>
+<a  href="https://twitter.com/KwamenaFelix">   <img src="images/tw.webp" alt="Twitter icon"    width="50px" height="50px">   </a>
 
-<a  href="https://twitter.com/KwamenaFelix">   <img src="images/tw.webp" alt="Twitter icon">   </a>
+<a   href="https://www.instagram.com/felixawortwekwamena/"> <img src="images/ins.png" alt ="Instagram icon"    width="50px" height="50px">  </a>
 
-<a   href="https://www.instagram.com/felixawortwekwamena/"> <img src="images/ins.png" alt ="Instagram icon">  </a>
-
-<a  href="https://www.linkedin.com/in/awortwe-felix-kwamena-%F0%9F%87%AC%F0%9F%87%AD-4644a7140/"><img src="images/lin.png" alt = "Linkedin icon">   </a>
-
+<a  href="https://www.linkedin.com/in/awortwe-felix-kwamena-%F0%9F%87%AC%F0%9F%87%AD-4644a7140/"><img src="images/lin.png" alt = "Linkedin icon"    width="50px" height="50px">   </a>
+ </div>
