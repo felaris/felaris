@@ -19,9 +19,9 @@ Currently managing relgh.com    , the first African deaf online learning platfor
 <img src="images/computer.gif" alt=" A Computer " width="150px" height="150px">
 <!--<img src="images/html.webp" alt=" Html on the wall " width="150px" height="150px"> </div>-->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaris" width="200px" height="200px" >
-  <img src="https://github-readme-stats.vercel.app/api?username=felaris" width="200px" height="200px"> </div>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaris" width="400px" height="300px" >
+  <img src="https://github-readme-stats.vercel.app/api?username=felaris" width="700px" height="700px"> </div>
+
 ## Let's connect  🌎:
 <div style="background-color:black">
 <a href="https://web.facebook.com/felix.awortwe.315">  <img src="images/fb.png" alt="Facebook icon"     width="50px" height="50px"> </a>
