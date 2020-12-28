@@ -16,8 +16,8 @@ Currently managing relgh.com    , the first African deaf online learning platfor
 <div>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaris" width="400px" height="300px" >
-  <img src="https://github-readme-stats.vercel.app/api?username=felaris" width="700px" height="700px"> </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaris" width="400px" height="300px" > </div>
+  <div><img src="https://github-readme-stats.vercel.app/api?username=felaris" width="700px" height="700px"> </div>
 
   <div>
   <img src="images/coding.gif" alt=" A man coding " width="150px" height="150px">
