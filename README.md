@@ -19,7 +19,9 @@ Currently managing relgh.com    , the first African deaf online learning platfor
 <img src="images/computer.gif" alt=" A Computer " width="150px" height="150px">
 <img src="images/html.webp" alt=" Html on the wall " width="150px" height="150px">
 
-
+<div> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felaris)](https://github.com/felaris/github-readme-stats)
+  </div>
+  <div>  ![Felaris github stats](https://github-readme-stats.vercel.app/api?username=felaris) </div>
 ## Let's connect  🌎:
 
 - Learning with other Dev  on <a href="https://twitter.com/KwamenaFelix">Twitter</a> 👬
