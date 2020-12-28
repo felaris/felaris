@@ -14,13 +14,17 @@ Currently managing relgh.com    , the first African deaf online learning platfor
 
 ## Happy Coding
 <div>
-<img src="images/coding.gif" alt=" A man coding " width="150px" height="150px">
-<img src="images/relax.gif" alt=" A man relaxed while coding " width="150px" height="150px">
-<img src="images/computer.gif" alt=" A Computer " width="150px" height="150px">
-<!--<img src="images/html.webp" alt=" Html on the wall " width="150px" height="150px"> </div>-->
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaris" width="400px" height="300px" >
   <img src="https://github-readme-stats.vercel.app/api?username=felaris" width="700px" height="700px"> </div>
+
+  <div>
+  <img src="images/coding.gif" alt=" A man coding " width="150px" height="150px">
+<img src="images/relax.gif" alt=" A man relaxed while coding " width="150px" height="150px">
+<img src="images/computer.gif" alt=" A Computer " width="150px" height="150px">
+<!--<img src="images/html.webp" alt=" Html on the wall " width="150px" height="150px"> </div>-->
+  </div>
 
 ## Let's connect  🌎:
 <div style="background-color:black">
