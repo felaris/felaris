@@ -9,9 +9,8 @@ Project manger <i>powerfile.org</i> , A website that host learning materials and
 Currently Project manager <i>relgh.com </i><br> , the first African Hearing impaired online learning platform .
 <br>
 
-<br>
 
-
+<!-- <!--
 ## Happy Coding
 <div>
 
@@ -19,12 +18,14 @@ Currently Project manager <i>relgh.com </i><br> , the first African Hearing impa
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaris" link="_blank" > 
   <img src="https://github-readme-stats.vercel.app/api?username=felaris"  target="_blank"> </div>
   -->
-  <div>
+ 
+
 <!--<img src="images/coding.gif" alt=" A man coding " width="150px" height="150px">-->
-<img src="images/relax.gif" alt=" A man relaxed while coding " width="150px" height="150px">
+ <!-- <img src="images/relax.gif" alt=" A man relaxed while coding " width="150px" height="150px">
 <img src="images/computer.gif" alt=" A Computer " width="150px" height="150px">
-<!--<img src="images/html.webp" alt=" Html on the wall " width="150px" height="150px"> </div>-->
-  </div>
+<img src="images/html.webp" alt=" Html on the wall " width="150px" height="150px"> </div>-->
+
+  
 
 ## Let's connect  🌎:
 <div style="background-color:black">
