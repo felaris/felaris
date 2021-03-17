@@ -9,20 +9,7 @@ Currently Project manager *relgh.com*, the first African Hearing impaired online
 <br>
 
 
-<!-- <!--
-## Happy Coding
-<div>
 
-
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaris" link="_blank" > 
-  <img src="https://github-readme-stats.vercel.app/api?username=felaris"  target="_blank"> </div>
-  -->
- 
-
-<!--<img src="images/coding.gif" alt=" A man coding " width="150px" height="150px">-->
- <!-- <img src="images/relax.gif" alt=" A man relaxed while coding " width="150px" height="150px">
-<img src="images/computer.gif" alt=" A Computer " width="150px" height="150px">
-<img src="images/html.webp" alt=" Html on the wall " width="150px" height="150px"> </div>-->
 
   
 
