@@ -20,5 +20,7 @@ Currently Project manager *relgh.com*, the first African Hearing impaired online
 <a   href="https://www.instagram.com/felixawortwekwamena/" target='_blank'> <img src="images/ins.png" alt ="Instagram icon"    width="60px" height="50px">  </a>
 <a  href="https://www.linkedin.com/in/awortwe-felix-kwamena-%F0%9F%87%AC%F0%9F%87%AD-4644a7140/" target="_blank"><img src="images/lin.webp" alt = "Linkedin icon"    width="50px" height="50px"></a>  
 <a  href="https://wa.me/qr/4K2TW6J537JIH1" target="_blank"><img src="images/whatsapp.png" alt = "Whatsapp icon"    width="50px" height="50px">   </a>
-<a  href= "felixawortwe14@gmail.com"     target = "_blank"><img src ="images/gmail.png" alt= "gmail icon" width="50px" height="50px"></a></div>
+/**<a  href= "felixawortwe14@gmail.com"     target = "_blank"><img src ="images/gmail.png" alt= "gmail icon" width="50px" height="50px"></a>**/
+
+</div>
 
