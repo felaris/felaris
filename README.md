@@ -3,9 +3,9 @@
 
 # Hello , my name is Felix👋
 <img src="images/Typing.gif" alt="An image of a hand typing-Animated" align="left" width="150px" height="150px">
-I'm a Climate Scientist and an aspiring Software Engineer and Data Scientist, I code and have knowledge in Python, CSS, HTML , Javascript and FORTRAN 90.
-
-Currently Project manager *relgh.com*, the first African Hearing impaired online learning platform .
+## I am a Student of Kwame Nkrumah University of Science and Technology(Undergraduate) Study,<br> I code and have knowledge in Python and FORTRAN 90.
+<br>
+Currently  Learning to cope with Earth right now 😁️.
 <br>
 
 
