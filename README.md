@@ -5,6 +5,7 @@
 <img src="images/Typing.gif" alt="An image of a hand typing-Animated" align="left" width="150px" height="150px">
 ## I am a Student of Kwame Nkrumah University of Science and Technology(Undergraduate) ,<br> Studying Bsc. Meteorology and Climate Science ,I code and have knowledge in Python and FORTRAN 90.
 <br>
+<br>Intern at https://www.datamavens.io/
 Currently  Learning to cope with Earth right now 😁️.
 <br>
 
