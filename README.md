@@ -3,7 +3,8 @@
 
 # Hello, Felix here :relaxed:
 <img src="https://awortwe.tech/assets/images/profile.jpg" alt="An image of a hand typing-Animated" align="left" width="250px" height="300px">
- I am a Developer at [DataMavens I.T Experts](https://www.datamavens.io/) ,Studying Bsc. I am a certified AWS Cloud Practitioner. I write poems and like to read novels . Favourite Author - <b>Dan Brown</b>
+ I am a Developer at <a href="https://www.datamavens.io/" target="_blank">DataMavens I.T Experts</a> .
+ I am a certified AWS Cloud Practitioner. I write poems and like to read novels . Favourite Author - <b>Dan Brown</b>
 
 <br>Currently  Learning to cope with Earth right now 😁️.
 <br>
