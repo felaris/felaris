@@ -3,12 +3,11 @@
 
 # Hello, Felix here :relaxed:
 <img src="https://www.fkawortwe.tech/assets/images/profile.jpg" alt="My image" align="left" width="250px" height="300px">
- I am a Developer at <a href="https://www.datamavens.io/" target="_blank">DataMavens I.T Experts</a> .
- I am a certified AWS Cloud Practitioner. I write poems and like to read novels . Favourite Author - <b>Dan Brown</b>
+ I am a Software Developer, a certified AWS Cloud Practitioner. I write poems and like to read novels . Favorite Author - <b>Dan Brown</b>
 
-<br>Currently  Learning to cope with Earth right now 😁️.
+<br>Currently learning to cope with Earth right now 😁️.
 <br>
-[Portfolio Website ](https://awortwe.tech/)
+[Portfolio Website ](https://www.fkawortwe.tech/)
  </div>
 <br>
 
