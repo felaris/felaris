@@ -17,7 +17,7 @@
 <a  href="https://twitter.com/KwamenaFelix" target='_blank'>   <img src="https://github.com/felaris/felaris/blob/master/images/icons8-twitter-circled.gif?raw=true" alt="Twitter icon"    width="50px" height="50px">   </a>
 <a   href="https://www.instagram.com/felixawortwekwamena/" target='_blank'> <img src="https://github.com/felaris/felaris/blob/master/images/icons8-instagram.gif?raw=true" alt ="Instagram icon"   width="50px" height="50px"  >  </a>
 <a  href="https://www.linkedin.com/in/felix-awortwe-kwamena-4644a7140/" target="_blank"><img src="https://github.com/felaris/felaris/blob/master/images/icons8-linkedin-circled.gif?raw=true" alt = "Linkedin icon"    width="50px" height="50px"></a>  
-<a  href="https://wa.me/qr/4K2TW6J537JIH1" target="_blank"><img src="https://github.com/felaris/felaris/blob/master/whatsapp.gif?raw=true" alt = "Whatsapp icon"    width="50px" height="50px">   </a>
+
 
 
 </div>
