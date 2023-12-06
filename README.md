@@ -3,7 +3,7 @@
 
 # Hello, Felix here :relaxed:
 <img src="https://www.fkawortwe.tech/assets/images/profile.jpg" alt="My image" align="left" width="250px" height="300px">
- I am a Software Developer, a certified AWS Cloud Practitioner. I write poems and like to read novels . Favorite Author - <b>Dan Brown</b>
+ I am a Software Engineer, a certified AWS Cloud Practitioner. I write poems and like to read novels . Favorite Author - <b>Dan Brown</b>
 
 <br>Currently learning to cope with Earth right now 😁️.
 <br>
