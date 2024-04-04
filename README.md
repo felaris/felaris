@@ -1,10 +1,7 @@
-
 <div>
-
 # Hello, Felix here :relaxed:
 <img src="https://www.fkawortwe.tech/assets/images/profile2.jpg" alt="My image" align="left" width="250px" height="350px">
  I am a Software Engineer, a certified AWS Cloud Practitioner. I write poems and like to read novels . Favorite Author - <b>Dan Brown</b>
-
 <br>Currently learning to cope with Earth right now 😁️.
 <br>
 [Portfolio Website ](https://www.fkawortwe.tech/)
@@ -17,8 +14,6 @@
 <a  href="https://twitter.com/KwamenaFelix" target='_blank'>   <img src="https://github.com/felaris/felaris/blob/master/images/icons8-twitter-circled.gif?raw=true" alt="Twitter icon"    width="50px" height="50px">   </a>
 <a   href="https://www.instagram.com/felixawortwekwamena/" target='_blank'> <img src="https://github.com/felaris/felaris/blob/master/images/icons8-instagram.gif?raw=true" alt ="Instagram icon"   width="50px" height="50px"  >  </a>
 <a  href="https://www.linkedin.com/in/felix-awortwe-kwamena-4644a7140/" target="_blank"><img src="https://github.com/felaris/felaris/blob/master/images/icons8-linkedin-circled.gif?raw=true" alt = "Linkedin icon"    width="50px" height="50px"></a>  
-
-
 
 </div>
 <br>
